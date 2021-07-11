@@ -1,17 +1,14 @@
 .about
 {
-    font-family: 'Courier New';
-color:black;
-background-color: white;
-margin-top:8px;
-font-size:19px;
-margin-top: 0px;
-margin:5px;
-border-bottom:1px solid black;
-shade background:red;
+       
+    border: 2px solid red;
+    padding: 6px;
+    margin: 20px;
+    background-color: yellow;
 }
- 
 .img
-{background-radius
-
+{border-radius: 50%;
+    vertical-align: left;
+    height: 200;
+    width:200;
 }
