@@ -1,6 +1,6 @@
 ## portfolio
+this is a portfolio about george kamakia
 
-Foobar is a Python library for dealing with word pluralization.
 
 ## Installation
 
