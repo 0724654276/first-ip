@@ -1,17 +1,23 @@
-## portfolio
-this is a portfolio about george kamakia
 
+# george kamakia
+#### my first IP about my portfoilio,2021
+#### By **george kamakia**
+## Description
+this is a landing page for my portfolio with gives a short descrirtion about my education background,work experience,skills and interests
 
-## Installation
+## Setup/Installation Requirements
+* clone the repository
+* open the project on your favourite editor
+* open project on live server
 
-clone the repository
-open the projecton your favourite editor(vscode)
-open project on live server
+## Technologies Used
+1. HTML
+2. CSS
+## Support and contact details
+contact author through george.macharia@student.moringaschool.com
+### License
+[MIT]("https://github.com/0724654276/first-ip/blob/master/license")
 
-## Used technologies
-HTML
-CSS
-BOOTSTRAP
+Copyright (c) {year} george kamakia
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+  
