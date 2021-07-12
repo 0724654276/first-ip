@@ -28,20 +28,17 @@
 }
 .list{ 
      display: flex;
-    align-items: center;
-    justify-content: center;
+    align-items: initial;
+    justify-content: space-evenly;
     background: black;
-}
-
-   
-
-.list-content{
     flex: 1;
     color: white;
     font-size: 20px;
 }
+
    .footer{ 
        background-color: yellow;
+       font-size: 20px;
       }
 
     

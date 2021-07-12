@@ -18,6 +18,6 @@ contact author through george.macharia@student.moringaschool.com
 ### License
 [MIT]("https://github.com/0724654276/first-ip/blob/master/license")
 
-Copyright (c) {year} george kamakia
+Copyright (c) {2021} george kamakia
 
   
