@@ -1,8 +1,6 @@
-.about
-{
-       
-    
+.about{
     background-color: yellow;
+    font-size: 20px;
 }
 .img {
     border-radius: 50%;
@@ -18,11 +16,32 @@
     background: black;
 }
 
+
 .header-content {
     flex: 1;
     color: white;
+    font-size: 60px;
 }
 
 .header-logo {
     flex: 0.2;
 }
+.list{ 
+     display: flex;
+    align-items: center;
+    justify-content: center;
+    background: black;
+}
+
+   
+
+.list-content{
+    flex: 1;
+    color: white;
+    font-size: 20px;
+}
+   .footer{ 
+       background-color: yellow;
+      }
+
+    
