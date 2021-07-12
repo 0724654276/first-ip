@@ -1,14 +1,28 @@
 .about
 {
        
-    border: 2px solid red;
-    padding: 6px;
-    margin: 20px;
+    
     background-color: yellow;
 }
-.img
-{border-radius: 50%;
-    vertical-align: left;
-    height: 200;
-    width:200;
+.img {
+    border-radius: 50%;
+    /* vertical-align: left; */
+    height: 200px;
+    width:200px;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: black;
+}
+
+.header-content {
+    flex: 1;
+    color: white;
+}
+
+.header-logo {
+    flex: 0.2;
 }
